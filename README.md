@@ -3,5 +3,9 @@ CLI app written in Rust that estimates the range of the future price movement of
 
 Installation
 ```
-git clone https://github.com/jerzybrzoska/when_ath.git && cd when_ath && cargo build --release
+git clone https://github.com/jerzybrzoska/when_ath.git 
+
+cd when_ath 
+
+cargo run --release
 ```
