@@ -1,10 +1,14 @@
 # when_ath
 CLI app written in Rust that estimates the range of the future price movement of Bitcoin 
 
-Installation
+##Installation
 ```
 git clone https://github.com/jerzybrzoska/when_ath.git 
 
+```
+##Usage
+
+```
 cd when_ath 
 
 cargo run --release
